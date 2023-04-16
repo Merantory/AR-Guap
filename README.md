@@ -1,9 +1,7 @@
 # AR-Guap
 
 ---
-
 #### Данное приложение является реализацией института информационных технологий и программирования в ГУАП с использованием дополненной реальности(AR).
-
 ---
 
 Приложение реализовано под мобильные устройства на базе Android.
@@ -15,14 +13,21 @@
 4. Figma
 5. Rider
 
-![Main menu](/images/MainMenu.png "Main menu")
-
-![alt text](/images/Detail_IITP.png "Detail IITP")
-
-![alt text](/images/Detail_IST.png "Detail IST")
-
-![alt text](/images/Detail_KTPI.png "Detail KTPI")
-
-![alt text](/images/Detail_PI.png "Detail PI")
-
-![alt text](/images/Detail_VSS.png "Detail VSS")
+<p align="center">
+  <img src="/images/MainMenu.png" />
+</p>
+<p align="center">
+  <img src="/images/Detail_IITP.png" />
+</p>  
+<p align="center">
+  <img src="/images/Detail_IST.png" />
+</p>  
+<p align="center">  
+  <img src="/images/Detail_KTPI.png" />
+</p>  
+<p align="center">  
+  <img src="/images/Detail_PI.png" />
+</p>  
+<p align="center">  
+  <img src="/images/Detail_VSS.png" />
+</p>
